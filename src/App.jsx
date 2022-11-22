@@ -5,7 +5,7 @@ import { Count as CountClass } from './class-components/Count';
 import { Count } from './components/Count';
 import { Child } from './components/Child';
 import { useState } from 'react';
-// можно переименовать From в FormClass
+// можно переименовать From в FormClass и Count в CountClass
 
 export const App = () => { // именованный экспорт
   const [name, setName] = useState('geek')
