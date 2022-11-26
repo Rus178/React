@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.a951b7fb.css",
-    "main.js": "/static/js/main.b46c3569.js",
-    "index.html": "/index.html",
-    "main.a951b7fb.css.map": "/static/css/main.a951b7fb.css.map",
-    "main.b46c3569.js.map": "/static/js/main.b46c3569.js.map"
+    "main.css": "//rus178.github.io/React1/static/css/main.a951b7fb.css",
+    "main.js": "//rus178.github.io/React1/static/js/main.b46c3569.js",
+    "index.html": "//rus178.github.io/React1/index.html",
+    "main.a951b7fb.css.map": "//rus178.github.io/React1/static/css/main.a951b7fb.css.map",
+    "main.b46c3569.js.map": "//rus178.github.io/React1/static/js/main.b46c3569.js.map"
   },
   "entrypoints": [
     "static/css/main.a951b7fb.css",
